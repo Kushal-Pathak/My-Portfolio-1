@@ -80,10 +80,12 @@
 }
 .intro-item-2 {
   align-self: flex-start;
+  margin-left: 0.5rem;
 }
 
 .intro-item-3 {
   align-self: flex-end;
+  margin-right: 0.5rem;
 }
 
 footer {
