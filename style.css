@@ -100,3 +100,74 @@ footer {
     width: 80%;
   }
 }
+
+.design-1 {
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.design-1-item {
+  background-color: blueviolet;
+  width: 10%;
+  height: 200px;
+}
+
+.design-1-item-1 {
+}
+
+.design-1-item-2 {
+  height: 300px;
+}
+
+.design-1-item-3 {
+}
+.skill-section{
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.skill-section h2 {
+  color: blueviolet;
+  margin-bottom: 1rem;
+}
+
+.skill-section ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  color: white;
+  list-style: none;
+  height: 500px;
+  align-items: flex-start;
+  width: 30%;
+}
+
+.skill-section ul li{
+  background-color: blueviolet;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+
+/* .skill-1{
+  align-self: flex-start;
+}
+.skill-2{
+  align-self: flex-end;
+}
+.skill-3{
+  align-self: flex-start;
+}
+.skill-4{
+  align-self: flex-end;
+}
+.skill-5{
+  align-self: flex-start;
+}
+.skill-6{
+  align-self: flex-end;
+} */
